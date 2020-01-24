@@ -50,4 +50,24 @@
   color: #0d192f;
 }
 
+.note-list {
+  display: flex;
+  flex-direction: column;
+  margin-left: 29%;
+  padding: 1%;
+  width: 40%;
+  background-color: red;
+  color: black;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+.note {
+  margin-top: 1%;
+  margin-bottom: 1%;
+  padding-left: 2%;
+  background-color: yellow;
+  color: black;
+}
+
 
